@@ -1,0 +1,10 @@
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\bin\Debug\HexPicker.exe.config
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\bin\Debug\HexPicker.exe
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\bin\Debug\HexPicker.pdb
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\obj\Debug\HexPicker.csprojAssemblyReference.cache
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\obj\Debug\HexPicker.Form1.resources
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\obj\Debug\HexPicker.Properties.Resources.resources
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\obj\Debug\HexPicker.csproj.GenerateResource.cache
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\obj\Debug\HexPicker.csproj.CoreCompileInputs.cache
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\obj\Debug\HexPicker.exe
+C:\Users\kvbv2803\source\repos\HexPicker\HexPicker\obj\Debug\HexPicker.pdb

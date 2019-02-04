@@ -19,7 +19,7 @@ namespace HexPicker
 
         private void Form1_Load(object sender, EventArgs e)
         {
-   
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -52,6 +52,16 @@ namespace HexPicker
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
+            textBox2.Clear();
+
+            textBox1.Visible = false;
+            textBox2.Visible = false;
+
+            label1.Visible = false;
+            label2.Visible = false;
+
+            button1.Visible = false;
+            button2.Visible = false;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
